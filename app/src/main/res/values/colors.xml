@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- QTI Driver Theme Colors -->
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="orange_primary">#FF9800</color>
+    <color name="orange_light">#FFB74D</color>
+    <color name="orange_dark">#F57C00</color>
+    <color name="background">#F5F5F5</color>
+    <color name="background_gray">#F5F5F5</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="divider">#E0E0E0</color>
+    
+    <!-- Status Colors -->
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#9E9E9E</color>
+    
+    <!-- Order Status Colors -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_accepted">#2196F3</color>
+    <color name="status_picked_up">#9C27B0</color>
+    <color name="status_delivering">#FF5722</color>
+    <color name="status_delivered">#4CAF50</color>
+    <color name="status_cancelled">#F44336</color>
+    
+    <!-- Button Colors -->
+    <color name="button_success">#4CAF50</color>
+    <color name="button_danger">#F44336</color>
+</resources>

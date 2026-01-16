@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QtiDriverApp</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="phone_hint">912345678</string>
+    <string name="button_login">Đăng nhập</string>
+    <string name="logo_text">QTI Driver</string>
+    
+    <!-- Driver Info Screen -->
+    <string name="driver_info_title">Thông tin tài xế</string>
+    <string name="full_name_hint">Họ và tên</string>
+    <string name="phone_label">Số điện thoại</string>
+    <string name="cccd_hint">Số CCCD</string>
+    <string name="license_hint">Số giấy phép lái xe</string>
+    <string name="button_submit">Hoàn tất</string>
+    
+    <!-- Common -->
+    <string name="loading">Đang tải…</string>
+    <string name="error_network">Lỗi kết nối mạng</string>
+    <string name="error_invalid_phone">Số điện thoại không hợp lệ</string>
+    <string name="error_verification_failed">Xác thực thất bại</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <!-- Wallet Screen -->
+    <string name="wallet_title">Ví - QTI</string>
+    <string name="back">Back</string>
+    <string name="refresh">Refresh</string>
+</resources>
