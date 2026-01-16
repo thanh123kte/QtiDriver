@@ -273,21 +273,37 @@ Update status → Home
 
 ## 📸 Screenshots
 
-_Screenshots sẽ được thêm vào đây_
+Login Screen
+This is the Driver Login screen of the QTI Driver application, where drivers log in using their phone number and verification code.
+ 
+<img width="231" height="507" alt="image" src="https://github.com/user-attachments/assets/fe42e356-13d9-4094-942e-a54cffb69070" />
 
-## 🤝 Contributing
+Navigation Menu Screen
+This is the Navigation Menu Screen, displaying the driver’s profile, online status, and navigation options such as wallet, income, orders, trip history, settings, and logout.
+ 
+<img width="255" height="567" alt="image" src="https://github.com/user-attachments/assets/bd3aacd9-79e4-46c1-84d5-73eaa61dcba7" />
 
-Contributions, issues và feature requests đều được chào đón!
+Current Order Screen
+This is the Current Order screen of the QTI Driver application, allowing drivers to view delivery details, customer information, order items, and perform actions such as contacting the customer and confirming delivery.
+ 
+<img width="273" height="508" alt="image" src="https://github.com/user-attachments/assets/dd034d85-3c75-46f1-9fc3-34a5ee11b75f" />
 
-## 📝 License
+Wallet Screen
+This is the Driver Wallet screen, allowing drivers to view their wallet balance, perform top-up and withdrawal actions, and check detailed transaction history related to their delivery activities.
 
-Copyright © 2026 QTI Food Delivery
+<img width="251" height="513" alt="image" src="https://github.com/user-attachments/assets/46c37018-98b3-42ed-bce7-96939d0d739d" />
 
-## 👨‍💻 Author
+Statistics Screen
+This is the Driver Statistics screen of the QTI Driver application, where drivers can view their income statistics by day, week, or month, including total income, number of orders, total delivery fees, average income per order, and total travel distance.
+ 
+ <img width="231" height="514" alt="image" src="https://github.com/user-attachments/assets/17ccf69e-bbed-4cd5-98c6-3c54835716c7" />
 
-**Thanh Nguyen**
-- GitHub: [@thanh123kte](https://github.com/thanh123kte)
+Setting Screen
+This is the Driver Setting screen, allowing drivers to manage personal information, upload identification and vehicle documents, change passwords, and log out of the system.
+   
+<img width="233" height="507" alt="image" src="https://github.com/user-attachments/assets/66d07a70-71f0-4041-92b7-347885f0be80" />
+<img width="228" height="507" alt="image" src="https://github.com/user-attachments/assets/8096c468-5266-4587-a761-7e5cc6e82ff5" />
+<img width="229" height="508" alt="image" src="https://github.com/user-attachments/assets/d7bcba9e-1640-4427-bb6b-dfd33130b997" />
 
----
 
-Made with ❤️ by QTI Team
+
